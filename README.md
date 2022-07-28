@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
@@ -138,13 +137,5 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-## Rubric
-
-[Unit 18 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-=======
-# tableau-hw
->>>>>>> e9f7392806dc7ffe492d2942c6c8d9508a2bf0a5
+## See Viz!
+https://public.tableau.com/views/CitiBikesAnalysis_16586508674910/TravelerTripDetails?:language=en-US&:display_count=n&:origin=viz_share_link
